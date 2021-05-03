@@ -1,6 +1,6 @@
 # Projet
 
-Données et notebooks pour la formation python pour la data science de @stat4decision pour LBP (janvier 2021).
+Données et notebooks pour la formation python pour la data science de @stat4decision pour SIB (avril 2021).
 
 ## Comment utiliser les contenus ?
 
